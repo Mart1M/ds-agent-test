@@ -1,6 +1,7 @@
 /**
  * ButtonClose Styles
- * Implements light/dark modes, all size variants, and states
+ * Implements light/dark modes using DTCG tokens
+ * All color values automatically adapt to theme via CSS custom properties
  */
 
 .button {
@@ -45,12 +46,13 @@
   height: 44px;
 }
 
-/* Light Mode States */
+/* Hover State - Auto-adapts to theme */
 .button:hover:not(:disabled) {
   background-color: var(--color-bg-primary-hover);
   color: var(--color-fg-quaternary-hover);
 }
 
+/* Focus State - Double shadow pattern with white inner ring */
 .button:focus-visible {
   outline: none;
   background-color: var(--color-bg-primary);
@@ -59,40 +61,8 @@
     0 0 0 6px var(--color-focus-ring);
 }
 
-/* Disabled State */
+/* Disabled State - Uses token-based opacity */
 .button:disabled {
-  opacity: 0.4;
+  opacity: var(--opacity-disabled);
   cursor: not-allowed;
-}
-
-/* Dark Mode */
-@media (prefers-color-scheme: dark) {
-  .button {
-    color: var(--color-fg-white);
-    opacity: 0.7;
-  }
-
-  .button:hover:not(:disabled) {
-    background-color: rgba(255, 255, 255, 0.2);
-    opacity: 1;
-  }
-
-  .button:disabled {
-    opacity: 0.3;
-  }
-}
-
-/* Data attribute dark mode support */
-[data-theme="dark"] .button {
-  color: var(--color-fg-white);
-  opacity: 0.7;
-}
-
-[data-theme="dark"] .button:hover:not(:disabled) {
-  background-color: rgba(255, 255, 255, 0.2);
-  opacity: 1;
-}
-
-[data-theme="dark"] .button:disabled {
-  opacity: 0.3;
 }

@@ -1,0 +1,14 @@
+{
+  "name": "ds-agent-test",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "tokens:build": "style-dictionary build",
+    "tokens:validate": "node scripts/validate-tokens.js",
+    "tokens:watch": "style-dictionary build --watch"
+  },
+  "devDependencies": {
+    "style-dictionary": "^4.0.0",
+    "@tokens-studio/sd-transforms": "^1.2.0"
+  }
+}

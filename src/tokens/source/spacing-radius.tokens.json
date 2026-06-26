@@ -1,0 +1,16 @@
+{
+  "spacing": {
+    "md": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Medium spacing"
+    }
+  },
+  "radius": {
+    "md": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Medium border radius"
+    }
+  }
+}

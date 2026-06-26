@@ -1,0 +1,225 @@
+{
+  "color": {
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "{primitives.neutral.900}",
+        "$description": "Primary text color",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.900}",
+            "dark": "{primitives.neutral.50}"
+          }
+        }
+      },
+      "primary-on-brand": {
+        "$type": "color",
+        "$value": "{primitives.white}",
+        "$description": "Primary text on brand backgrounds",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.white}",
+            "dark": "{primitives.neutral.50}"
+          }
+        }
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{primitives.neutral.700}",
+        "$description": "Secondary text color",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.700}",
+            "dark": "{primitives.neutral.300}"
+          }
+        }
+      },
+      "secondary-hover": {
+        "$type": "color",
+        "$value": "{primitives.neutral.800}",
+        "$description": "Secondary text hover state",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.800}",
+            "dark": "{primitives.neutral.200}"
+          }
+        }
+      },
+      "secondary-on-brand": {
+        "$type": "color",
+        "$value": "{primitives.brand.200}",
+        "$description": "Secondary text on brand backgrounds",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.200}",
+            "dark": "{primitives.neutral.300}"
+          }
+        }
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{primitives.neutral.600}",
+        "$description": "Tertiary text color",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.600}",
+            "dark": "{primitives.neutral.400}"
+          }
+        }
+      },
+      "tertiary-hover": {
+        "$type": "color",
+        "$value": "{primitives.neutral.700}",
+        "$description": "Tertiary text hover state",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.700}",
+            "dark": "{primitives.neutral.300}"
+          }
+        }
+      },
+      "tertiary-on-brand": {
+        "$type": "color",
+        "$value": "{primitives.brand.200}",
+        "$description": "Tertiary text on brand backgrounds",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.200}",
+            "dark": "{primitives.neutral.400}"
+          }
+        }
+      },
+      "quaternary": {
+        "$type": "color",
+        "$value": "{primitives.neutral.500}",
+        "$description": "Quaternary text color",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.500}",
+            "dark": "{primitives.neutral.400}"
+          }
+        }
+      },
+      "quaternary-on-brand": {
+        "$type": "color",
+        "$value": "{primitives.brand.300}",
+        "$description": "Quaternary text on brand backgrounds",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.300}",
+            "dark": "{primitives.neutral.400}"
+          }
+        }
+      },
+      "white": {
+        "$type": "color",
+        "$value": "{primitives.white}",
+        "$description": "White text (no dark mode variant)"
+      },
+      "placeholder": {
+        "$type": "color",
+        "$value": "{primitives.neutral.500}",
+        "$description": "Placeholder text color"
+      },
+      "brand-primary": {
+        "$type": "color",
+        "$value": "{primitives.brand.900}",
+        "$description": "Primary brand text",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.900}",
+            "dark": "{primitives.neutral.50}"
+          }
+        }
+      },
+      "brand-secondary": {
+        "$type": "color",
+        "$value": "{primitives.brand.700}",
+        "$description": "Secondary brand text",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.700}",
+            "dark": "{primitives.neutral.300}"
+          }
+        }
+      },
+      "brand-secondary-hover": {
+        "$type": "color",
+        "$value": "{primitives.brand.800}",
+        "$description": "Secondary brand text hover",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.800}",
+            "dark": "{primitives.neutral.200}"
+          }
+        }
+      },
+      "brand-tertiary": {
+        "$type": "color",
+        "$value": "{primitives.brand.600}",
+        "$description": "Tertiary brand text",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.600}",
+            "dark": "{primitives.neutral.400}"
+          }
+        }
+      },
+      "brand-tertiary-alt": {
+        "$type": "color",
+        "$value": "{primitives.brand.600}",
+        "$description": "Tertiary brand text alternate",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.600}",
+            "dark": "{primitives.neutral.50}"
+          }
+        }
+      },
+      "error-primary": {
+        "$type": "color",
+        "$value": "{primitives.red.600}",
+        "$description": "Primary error text",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.red.600}",
+            "dark": "{primitives.red.400}"
+          }
+        }
+      },
+      "error-primary-hover": {
+        "$type": "color",
+        "$value": "{primitives.red.700}",
+        "$description": "Primary error text hover",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.red.700}",
+            "dark": "{primitives.red.300}"
+          }
+        }
+      },
+      "warning-primary": {
+        "$type": "color",
+        "$value": "{primitives.yellow.600}",
+        "$description": "Primary warning text",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.yellow.600}",
+            "dark": "{primitives.yellow.400}"
+          }
+        }
+      },
+      "success-primary": {
+        "$type": "color",
+        "$value": "{primitives.green.600}",
+        "$description": "Primary success text",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.green.600}",
+            "dark": "{primitives.green.400}"
+          }
+        }
+      }
+    }
+  }
+}
