@@ -1,0 +1,81 @@
+{
+  "color": {
+    "fg": {
+      "quaternary": {
+        "$type": "color",
+        "$value": "{primitives.neutral.500}",
+        "$description": "Quaternary foreground - Fixed from neutral-400 to neutral-500 for WCAG AA compliance (4.6:1 contrast)",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.500}",
+            "dark": "{primitives.neutral.100}"
+          }
+        }
+      },
+      "quaternary-hover": {
+        "$type": "color",
+        "$value": "{primitives.neutral.600}",
+        "$description": "Quaternary foreground hover state",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.600}",
+            "dark": "{primitives.white}"
+          }
+        }
+      },
+      "white": {
+        "$type": "color",
+        "$value": "{primitives.white}",
+        "$description": "White foreground (no dark mode variant)"
+      }
+    },
+    "bg": {
+      "primary": {
+        "$type": "color",
+        "$value": "{primitives.white}",
+        "$description": "Primary background",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.white}",
+            "dark": "{primitives.neutral.900}"
+          }
+        }
+      },
+      "primary-hover": {
+        "$type": "color",
+        "$value": "{primitives.neutral.50}",
+        "$description": "Primary background hover state",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.50}",
+            "dark": "#262626"
+          }
+        }
+      }
+    },
+    "focus-ring": {
+      "$type": "color",
+      "$value": "{primitives.purple.600}",
+      "$description": "Focus ring color - Components implement double shadow pattern",
+      "$extensions": {
+        "mode": {
+          "light": "{primitives.purple.600}",
+          "dark": "{primitives.purple.400}"
+        }
+      }
+    }
+  },
+  "opacity": {
+    "disabled": {
+      "$type": "number",
+      "$value": 0.4,
+      "$description": "Disabled state opacity",
+      "$extensions": {
+        "mode": {
+          "light": 0.4,
+          "dark": 0.3
+        }
+      }
+    }
+  }
+}

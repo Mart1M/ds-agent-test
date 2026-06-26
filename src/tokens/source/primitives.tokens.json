@@ -1,0 +1,63 @@
+{
+  "primitives": {
+    "neutral": {
+      "50": {
+        "$value": "#fafafa",
+        "$type": "color",
+        "$description": "Tailwind neutral-50"
+      },
+      "100": {
+        "$value": "#f5f5f5",
+        "$type": "color",
+        "$description": "Tailwind neutral-100"
+      },
+      "400": {
+        "$value": "#a3a3a3",
+        "$type": "color",
+        "$description": "Tailwind neutral-400"
+      },
+      "500": {
+        "$value": "#737373",
+        "$type": "color",
+        "$description": "Tailwind neutral-500 - WCAG AA compliant (4.6:1 on white)"
+      },
+      "600": {
+        "$value": "#525252",
+        "$type": "color",
+        "$description": "Tailwind neutral-600"
+      },
+      "900": {
+        "$value": "#171717",
+        "$type": "color",
+        "$description": "Tailwind neutral-900"
+      }
+    },
+    "purple": {
+      "400": {
+        "$value": "#c084fc",
+        "$type": "color",
+        "$description": "Tailwind purple-400"
+      },
+      "500": {
+        "$value": "#a855f7",
+        "$type": "color",
+        "$description": "Tailwind purple-500"
+      },
+      "600": {
+        "$value": "#9333ea",
+        "$type": "color",
+        "$description": "Tailwind purple-600"
+      }
+    },
+    "white": {
+      "$value": "#ffffff",
+      "$type": "color",
+      "$description": "Pure white"
+    },
+    "black": {
+      "$value": "#000000",
+      "$type": "color",
+      "$description": "Pure black"
+    }
+  }
+}
