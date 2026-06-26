@@ -1,0 +1,41 @@
+{
+  "spacing": {
+    "xxs": {
+      "$type": "dimension",
+      "$value": "2px",
+      "$description": "Extra extra small spacing"
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "4px",
+      "$description": "Extra small spacing"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "6px",
+      "$description": "Small spacing"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Medium spacing"
+    }
+  },
+  "radius": {
+    "xs": {
+      "$type": "dimension",
+      "$value": "4px",
+      "$description": "Extra small border radius"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "6px",
+      "$description": "Small border radius"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Medium border radius"
+    }
+  }
+}

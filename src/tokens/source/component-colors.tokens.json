@@ -1,0 +1,1866 @@
+{
+  "component": {
+    "alpha": {
+      "alpha-white-10": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-10",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "#0a0a0a"
+          }
+        }
+      },
+      "alpha-white-20": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-20",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "#0a0a0a"
+          }
+        }
+      },
+      "alpha-white-30": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-30",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "#0a0a0a"
+          }
+        }
+      },
+      "alpha-white-40": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-40",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "#0a0a0a"
+          }
+        }
+      },
+      "alpha-white-50": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-50",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "#0a0a0a"
+          }
+        }
+      },
+      "alpha-white-60": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-60",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "#0a0a0a"
+          }
+        }
+      },
+      "alpha-white-70": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-70",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "#0a0a0a"
+          }
+        }
+      },
+      "alpha-white-80": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-80",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "#0a0a0a"
+          }
+        }
+      },
+      "alpha-white-90": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-90",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "#0a0a0a"
+          }
+        }
+      },
+      "alpha-white-100": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-white-100",
+        "$extensions": {
+          "mode": {
+            "light": "#ffffff",
+            "dark": "{primitives.neutral.950}"
+          }
+        }
+      },
+      "alpha-black-10": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-10",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      },
+      "alpha-black-20": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-20",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      },
+      "alpha-black-30": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-30",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      },
+      "alpha-black-40": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-40",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      },
+      "alpha-black-50": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-50",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      },
+      "alpha-black-60": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-60",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      },
+      "alpha-black-70": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-70",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      },
+      "alpha-black-80": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-80",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      },
+      "alpha-black-90": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-90",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      },
+      "alpha-black-100": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "From Figma 1. Color modes — component.alpha.alpha-black-100",
+        "$extensions": {
+          "mode": {
+            "light": "#000000",
+            "dark": "#ffffff"
+          }
+        }
+      }
+    },
+    "utility": {
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.neutral.50}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.50}",
+              "dark": "{primitives.neutral.900}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.neutral.100}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.100}",
+              "dark": "{primitives.neutral.800}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.neutral.200}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.200}",
+              "dark": "{primitives.neutral.700}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.neutral.300}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.300}",
+              "dark": "{primitives.neutral.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.neutral.400}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.400}",
+              "dark": "{primitives.neutral.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.neutral.500}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.neutral.600}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.600}",
+              "dark": "{primitives.neutral.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.neutral.700}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.700}",
+              "dark": "{primitives.neutral.300}"
+            }
+          }
+        },
+        "800": {
+          "$type": "color",
+          "$value": "{primitives.neutral.800}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.800",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.800}",
+              "dark": "{primitives.neutral.200}"
+            }
+          }
+        },
+        "900": {
+          "$type": "color",
+          "$value": "{primitives.neutral.900}",
+          "$description": "From Figma 1. Color modes — component.utility.neutral.900",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.900}",
+              "dark": "{primitives.neutral.100}"
+            }
+          }
+        }
+      },
+      "brand": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.brand.50}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.50}",
+              "dark": "{primitives.brand.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.brand.100}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.100}",
+              "dark": "{primitives.brand.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.brand.200}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.200}",
+              "dark": "{primitives.brand.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.brand.300}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.300}",
+              "dark": "{primitives.brand.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.brand.400}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.400}",
+              "dark": "{primitives.brand.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.brand.500}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.brand.600}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.600}",
+              "dark": "{primitives.brand.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.brand.700}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.700}",
+              "dark": "{primitives.brand.300}"
+            }
+          }
+        },
+        "800": {
+          "$type": "color",
+          "$value": "{primitives.brand.800}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.800",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.800}",
+              "dark": "{primitives.brand.200}"
+            }
+          }
+        },
+        "900": {
+          "$type": "color",
+          "$value": "{primitives.brand.900}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.900",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.900}",
+              "dark": "{primitives.brand.100}"
+            }
+          }
+        },
+        "50_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.50}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.50_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.50}",
+              "dark": "{primitives.neutral.50}"
+            }
+          }
+        },
+        "100_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.100}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.100_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.100}",
+              "dark": "{primitives.neutral.100}"
+            }
+          }
+        },
+        "200_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.200}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.200_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.200}",
+              "dark": "{primitives.neutral.200}"
+            }
+          }
+        },
+        "300_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.300}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.300_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.300}",
+              "dark": "{primitives.neutral.300}"
+            }
+          }
+        },
+        "400_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.400}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.400_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.400}",
+              "dark": "{primitives.neutral.400}"
+            }
+          }
+        },
+        "500_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.500}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.500_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.500}",
+              "dark": "{primitives.neutral.500}"
+            }
+          }
+        },
+        "600_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.600}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.600_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.600}",
+              "dark": "{primitives.neutral.600}"
+            }
+          }
+        },
+        "700_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.700}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.700_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.700}",
+              "dark": "{primitives.neutral.700}"
+            }
+          }
+        },
+        "800_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.800}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.800_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.800}",
+              "dark": "{primitives.neutral.800}"
+            }
+          }
+        },
+        "900_alt": {
+          "$type": "color",
+          "$value": "{primitives.brand.900}",
+          "$description": "From Figma 1. Color modes — component.utility.brand.900_alt",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.900}",
+              "dark": "{primitives.neutral.900}"
+            }
+          }
+        }
+      },
+      "red": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.red.50}",
+          "$description": "From Figma 1. Color modes — component.utility.red.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.red.50}",
+              "dark": "{primitives.red.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.red.100}",
+          "$description": "From Figma 1. Color modes — component.utility.red.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.red.100}",
+              "dark": "{primitives.red.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.red.200}",
+          "$description": "From Figma 1. Color modes — component.utility.red.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.red.200}",
+              "dark": "{primitives.red.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.red.300}",
+          "$description": "From Figma 1. Color modes — component.utility.red.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.red.300}",
+              "dark": "{primitives.red.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.red.400}",
+          "$description": "From Figma 1. Color modes — component.utility.red.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.red.400}",
+              "dark": "{primitives.red.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.red.500}",
+          "$description": "From Figma 1. Color modes — component.utility.red.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.red.600}",
+          "$description": "From Figma 1. Color modes — component.utility.red.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.red.600}",
+              "dark": "{primitives.red.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.red.700}",
+          "$description": "From Figma 1. Color modes — component.utility.red.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.red.700}",
+              "dark": "{primitives.red.300}"
+            }
+          }
+        }
+      },
+      "orange": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.orange.50}",
+          "$description": "From Figma 1. Color modes — component.utility.orange.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.orange.50}",
+              "dark": "{primitives.orange.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.orange.100}",
+          "$description": "From Figma 1. Color modes — component.utility.orange.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.orange.100}",
+              "dark": "{primitives.orange.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.orange.200}",
+          "$description": "From Figma 1. Color modes — component.utility.orange.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.orange.200}",
+              "dark": "{primitives.orange.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.orange.300}",
+          "$description": "From Figma 1. Color modes — component.utility.orange.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.orange.300}",
+              "dark": "{primitives.orange.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.orange.400}",
+          "$description": "From Figma 1. Color modes — component.utility.orange.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.orange.400}",
+              "dark": "{primitives.orange.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.orange.500}",
+          "$description": "From Figma 1. Color modes — component.utility.orange.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.orange.600}",
+          "$description": "From Figma 1. Color modes — component.utility.orange.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.orange.600}",
+              "dark": "{primitives.orange.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.orange.700}",
+          "$description": "From Figma 1. Color modes — component.utility.orange.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.orange.700}",
+              "dark": "{primitives.orange.300}"
+            }
+          }
+        }
+      },
+      "amber": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.amber.50}",
+          "$description": "From Figma 1. Color modes — component.utility.amber.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.amber.50}",
+              "dark": "{primitives.amber.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.amber.100}",
+          "$description": "From Figma 1. Color modes — component.utility.amber.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.amber.100}",
+              "dark": "{primitives.amber.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.amber.200}",
+          "$description": "From Figma 1. Color modes — component.utility.amber.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.amber.200}",
+              "dark": "{primitives.amber.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.amber.300}",
+          "$description": "From Figma 1. Color modes — component.utility.amber.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.amber.300}",
+              "dark": "{primitives.amber.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.amber.400}",
+          "$description": "From Figma 1. Color modes — component.utility.amber.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.amber.400}",
+              "dark": "{primitives.amber.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.amber.500}",
+          "$description": "From Figma 1. Color modes — component.utility.amber.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.amber.600}",
+          "$description": "From Figma 1. Color modes — component.utility.amber.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.amber.600}",
+              "dark": "{primitives.amber.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.amber.700}",
+          "$description": "From Figma 1. Color modes — component.utility.amber.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.amber.700}",
+              "dark": "{primitives.amber.300}"
+            }
+          }
+        }
+      },
+      "yellow": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.yellow.50}",
+          "$description": "From Figma 1. Color modes — component.utility.yellow.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.yellow.50}",
+              "dark": "{primitives.yellow.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.yellow.100}",
+          "$description": "From Figma 1. Color modes — component.utility.yellow.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.yellow.100}",
+              "dark": "{primitives.yellow.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.yellow.200}",
+          "$description": "From Figma 1. Color modes — component.utility.yellow.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.yellow.200}",
+              "dark": "{primitives.yellow.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.yellow.300}",
+          "$description": "From Figma 1. Color modes — component.utility.yellow.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.yellow.300}",
+              "dark": "{primitives.yellow.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.yellow.400}",
+          "$description": "From Figma 1. Color modes — component.utility.yellow.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.yellow.400}",
+              "dark": "{primitives.yellow.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.yellow.500}",
+          "$description": "From Figma 1. Color modes — component.utility.yellow.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.yellow.600}",
+          "$description": "From Figma 1. Color modes — component.utility.yellow.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.yellow.600}",
+              "dark": "{primitives.yellow.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.yellow.700}",
+          "$description": "From Figma 1. Color modes — component.utility.yellow.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.yellow.700}",
+              "dark": "{primitives.yellow.300}"
+            }
+          }
+        }
+      },
+      "green": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.green.50}",
+          "$description": "From Figma 1. Color modes — component.utility.green.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.green.50}",
+              "dark": "{primitives.green.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.green.100}",
+          "$description": "From Figma 1. Color modes — component.utility.green.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.green.100}",
+              "dark": "{primitives.green.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.green.200}",
+          "$description": "From Figma 1. Color modes — component.utility.green.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.green.200}",
+              "dark": "{primitives.green.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.green.300}",
+          "$description": "From Figma 1. Color modes — component.utility.green.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.green.300}",
+              "dark": "{primitives.green.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.green.400}",
+          "$description": "From Figma 1. Color modes — component.utility.green.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.green.400}",
+              "dark": "{primitives.green.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.green.500}",
+          "$description": "From Figma 1. Color modes — component.utility.green.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.green.600}",
+          "$description": "From Figma 1. Color modes — component.utility.green.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.green.600}",
+              "dark": "{primitives.green.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.green.700}",
+          "$description": "From Figma 1. Color modes — component.utility.green.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.green.700}",
+              "dark": "{primitives.green.300}"
+            }
+          }
+        }
+      },
+      "emerald": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.emerald.50}",
+          "$description": "From Figma 1. Color modes — component.utility.emerald.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.emerald.50}",
+              "dark": "{primitives.emerald.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.emerald.100}",
+          "$description": "From Figma 1. Color modes — component.utility.emerald.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.emerald.100}",
+              "dark": "{primitives.emerald.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.emerald.200}",
+          "$description": "From Figma 1. Color modes — component.utility.emerald.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.emerald.200}",
+              "dark": "{primitives.emerald.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.emerald.300}",
+          "$description": "From Figma 1. Color modes — component.utility.emerald.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.emerald.300}",
+              "dark": "{primitives.emerald.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.emerald.400}",
+          "$description": "From Figma 1. Color modes — component.utility.emerald.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.emerald.400}",
+              "dark": "{primitives.emerald.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.emerald.500}",
+          "$description": "From Figma 1. Color modes — component.utility.emerald.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.emerald.600}",
+          "$description": "From Figma 1. Color modes — component.utility.emerald.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.emerald.600}",
+              "dark": "{primitives.emerald.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.emerald.700}",
+          "$description": "From Figma 1. Color modes — component.utility.emerald.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.emerald.700}",
+              "dark": "{primitives.emerald.300}"
+            }
+          }
+        }
+      },
+      "sky": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.sky.50}",
+          "$description": "From Figma 1. Color modes — component.utility.sky.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.sky.50}",
+              "dark": "{primitives.sky.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.sky.100}",
+          "$description": "From Figma 1. Color modes — component.utility.sky.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.sky.100}",
+              "dark": "{primitives.sky.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.sky.200}",
+          "$description": "From Figma 1. Color modes — component.utility.sky.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.sky.200}",
+              "dark": "{primitives.sky.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.sky.300}",
+          "$description": "From Figma 1. Color modes — component.utility.sky.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.sky.300}",
+              "dark": "{primitives.sky.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.sky.400}",
+          "$description": "From Figma 1. Color modes — component.utility.sky.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.sky.400}",
+              "dark": "{primitives.sky.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.sky.500}",
+          "$description": "From Figma 1. Color modes — component.utility.sky.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.sky.600}",
+          "$description": "From Figma 1. Color modes — component.utility.sky.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.sky.600}",
+              "dark": "{primitives.sky.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.sky.700}",
+          "$description": "From Figma 1. Color modes — component.utility.sky.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.sky.700}",
+              "dark": "{primitives.sky.300}"
+            }
+          }
+        }
+      },
+      "blue": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.blue.50}",
+          "$description": "From Figma 1. Color modes — component.utility.blue.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.blue.50}",
+              "dark": "{primitives.blue.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.blue.100}",
+          "$description": "From Figma 1. Color modes — component.utility.blue.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.blue.100}",
+              "dark": "{primitives.blue.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.blue.200}",
+          "$description": "From Figma 1. Color modes — component.utility.blue.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.blue.200}",
+              "dark": "{primitives.blue.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.blue.300}",
+          "$description": "From Figma 1. Color modes — component.utility.blue.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.blue.300}",
+              "dark": "{primitives.blue.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.blue.400}",
+          "$description": "From Figma 1. Color modes — component.utility.blue.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.blue.400}",
+              "dark": "{primitives.blue.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.blue.500}",
+          "$description": "From Figma 1. Color modes — component.utility.blue.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.blue.600}",
+          "$description": "From Figma 1. Color modes — component.utility.blue.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.blue.600}",
+              "dark": "{primitives.blue.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.blue.700}",
+          "$description": "From Figma 1. Color modes — component.utility.blue.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.blue.700}",
+              "dark": "{primitives.blue.300}"
+            }
+          }
+        }
+      },
+      "indigo": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.indigo.50}",
+          "$description": "From Figma 1. Color modes — component.utility.indigo.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.indigo.50}",
+              "dark": "{primitives.indigo.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.indigo.100}",
+          "$description": "From Figma 1. Color modes — component.utility.indigo.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.indigo.100}",
+              "dark": "{primitives.indigo.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.indigo.200}",
+          "$description": "From Figma 1. Color modes — component.utility.indigo.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.indigo.200}",
+              "dark": "{primitives.indigo.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.indigo.300}",
+          "$description": "From Figma 1. Color modes — component.utility.indigo.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.indigo.300}",
+              "dark": "{primitives.indigo.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.indigo.400}",
+          "$description": "From Figma 1. Color modes — component.utility.indigo.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.indigo.400}",
+              "dark": "{primitives.indigo.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.indigo.500}",
+          "$description": "From Figma 1. Color modes — component.utility.indigo.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.indigo.600}",
+          "$description": "From Figma 1. Color modes — component.utility.indigo.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.indigo.600}",
+              "dark": "{primitives.indigo.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.indigo.700}",
+          "$description": "From Figma 1. Color modes — component.utility.indigo.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.indigo.700}",
+              "dark": "{primitives.indigo.300}"
+            }
+          }
+        }
+      },
+      "purple": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.purple.50}",
+          "$description": "From Figma 1. Color modes — component.utility.purple.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.purple.50}",
+              "dark": "{primitives.purple.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.purple.100}",
+          "$description": "From Figma 1. Color modes — component.utility.purple.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.purple.100}",
+              "dark": "{primitives.purple.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.purple.200}",
+          "$description": "From Figma 1. Color modes — component.utility.purple.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.purple.200}",
+              "dark": "{primitives.purple.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.purple.300}",
+          "$description": "From Figma 1. Color modes — component.utility.purple.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.purple.300}",
+              "dark": "{primitives.purple.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.purple.400}",
+          "$description": "From Figma 1. Color modes — component.utility.purple.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.purple.400}",
+              "dark": "{primitives.purple.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.purple.500}",
+          "$description": "From Figma 1. Color modes — component.utility.purple.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.purple.600}",
+          "$description": "From Figma 1. Color modes — component.utility.purple.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.purple.600}",
+              "dark": "{primitives.purple.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.purple.700}",
+          "$description": "From Figma 1. Color modes — component.utility.purple.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.purple.700}",
+              "dark": "{primitives.purple.300}"
+            }
+          }
+        }
+      },
+      "fuchsia": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.fuchsia.50}",
+          "$description": "From Figma 1. Color modes — component.utility.fuchsia.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.fuchsia.50}",
+              "dark": "{primitives.fuchsia.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.fuchsia.100}",
+          "$description": "From Figma 1. Color modes — component.utility.fuchsia.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.fuchsia.100}",
+              "dark": "{primitives.fuchsia.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.fuchsia.200}",
+          "$description": "From Figma 1. Color modes — component.utility.fuchsia.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.fuchsia.200}",
+              "dark": "{primitives.fuchsia.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.fuchsia.300}",
+          "$description": "From Figma 1. Color modes — component.utility.fuchsia.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.fuchsia.300}",
+              "dark": "{primitives.fuchsia.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.fuchsia.400}",
+          "$description": "From Figma 1. Color modes — component.utility.fuchsia.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.fuchsia.400}",
+              "dark": "{primitives.fuchsia.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.fuchsia.500}",
+          "$description": "From Figma 1. Color modes — component.utility.fuchsia.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.fuchsia.600}",
+          "$description": "From Figma 1. Color modes — component.utility.fuchsia.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.fuchsia.600}",
+              "dark": "{primitives.fuchsia.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.fuchsia.700}",
+          "$description": "From Figma 1. Color modes — component.utility.fuchsia.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.fuchsia.700}",
+              "dark": "{primitives.fuchsia.300}"
+            }
+          }
+        }
+      },
+      "pink": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.pink.50}",
+          "$description": "From Figma 1. Color modes — component.utility.pink.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.pink.50}",
+              "dark": "{primitives.pink.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.pink.100}",
+          "$description": "From Figma 1. Color modes — component.utility.pink.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.pink.100}",
+              "dark": "{primitives.pink.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.pink.200}",
+          "$description": "From Figma 1. Color modes — component.utility.pink.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.pink.200}",
+              "dark": "{primitives.pink.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.pink.300}",
+          "$description": "From Figma 1. Color modes — component.utility.pink.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.pink.300}",
+              "dark": "{primitives.pink.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.pink.400}",
+          "$description": "From Figma 1. Color modes — component.utility.pink.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.pink.400}",
+              "dark": "{primitives.pink.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.pink.500}",
+          "$description": "From Figma 1. Color modes — component.utility.pink.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.pink.600}",
+          "$description": "From Figma 1. Color modes — component.utility.pink.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.pink.600}",
+              "dark": "{primitives.pink.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.pink.700}",
+          "$description": "From Figma 1. Color modes — component.utility.pink.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.pink.700}",
+              "dark": "{primitives.pink.300}"
+            }
+          }
+        }
+      },
+      "slate": {
+        "50": {
+          "$type": "color",
+          "$value": "{primitives.slate.50}",
+          "$description": "From Figma 1. Color modes — component.utility.slate.50",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.slate.50}",
+              "dark": "{primitives.slate.950}"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{primitives.slate.100}",
+          "$description": "From Figma 1. Color modes — component.utility.slate.100",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.slate.100}",
+              "dark": "{primitives.slate.900}"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{primitives.slate.200}",
+          "$description": "From Figma 1. Color modes — component.utility.slate.200",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.slate.200}",
+              "dark": "{primitives.slate.800}"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{primitives.slate.300}",
+          "$description": "From Figma 1. Color modes — component.utility.slate.300",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.slate.300}",
+              "dark": "{primitives.slate.700}"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{primitives.slate.400}",
+          "$description": "From Figma 1. Color modes — component.utility.slate.400",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.slate.400}",
+              "dark": "{primitives.slate.600}"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{primitives.slate.500}",
+          "$description": "From Figma 1. Color modes — component.utility.slate.500"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{primitives.slate.600}",
+          "$description": "From Figma 1. Color modes — component.utility.slate.600",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.slate.600}",
+              "dark": "{primitives.slate.400}"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{primitives.slate.700}",
+          "$description": "From Figma 1. Color modes — component.utility.slate.700",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.slate.700}",
+              "dark": "{primitives.slate.300}"
+            }
+          }
+        }
+      }
+    },
+    "app-store-badges": {
+      "app-store-badge-border": {
+        "$type": "color",
+        "$value": "#a6a6a6",
+        "$description": "From Figma 1. Color modes — component.app-store-badges.app-store-badge-border",
+        "$extensions": {
+          "mode": {
+            "light": "#a6a6a6",
+            "dark": "{primitives.white}"
+          }
+        }
+      }
+    },
+    "avatars": {
+      "avatar-styles-bg-neutral": {
+        "$type": "color",
+        "$value": "#e0e0e0",
+        "$description": "From Figma 1. Color modes — component.avatars.avatar-styles-bg-neutral"
+      }
+    },
+    "footers": {
+      "footer-button-fg": {
+        "$type": "color",
+        "$value": "{primitives.brand.200}",
+        "$description": "From Figma 1. Color modes — component.footers.footer-button-fg",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.200}",
+            "dark": "{primitives.neutral.300}"
+          }
+        }
+      },
+      "footer-button-fg-hover": {
+        "$type": "color",
+        "$value": "{primitives.white}",
+        "$description": "From Figma 1. Color modes — component.footers.footer-button-fg-hover",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.white}",
+            "dark": "{primitives.neutral.100}"
+          }
+        }
+      }
+    },
+    "icons": {
+      "icons": {
+        "icon-fg-brand": {
+          "$type": "color",
+          "$value": "{primitives.brand.600}",
+          "$description": "From Figma 1. Color modes — component.icons.icons.icon-fg-brand",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.600}",
+              "dark": "{primitives.neutral.400}"
+            }
+          }
+        },
+        "icon-fg-brand-on-brand": {
+          "$type": "color",
+          "$value": "{primitives.brand.200}",
+          "$description": "From Figma 1. Color modes — component.icons.icons.icon-fg-brand-on-brand",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.200}",
+              "dark": "{primitives.neutral.400}"
+            }
+          }
+        }
+      },
+      "featured-icons": {
+        "featured-icon-light-fg-brand": {
+          "$type": "color",
+          "$value": "{primitives.brand.600}",
+          "$description": "From Figma 1. Color modes — component.icons.featured-icons.featured-icon-light-fg-brand",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.brand.600}",
+              "dark": "{primitives.brand.200}"
+            }
+          }
+        },
+        "featured-icon-light-fg-gray": {
+          "$type": "color",
+          "$value": "{primitives.neutral.500}",
+          "$description": "From Figma 1. Color modes — component.icons.featured-icons.featured-icon-light-fg-gray",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.neutral.500}",
+              "dark": "{primitives.neutral.200}"
+            }
+          }
+        },
+        "featured-icon-light-fg-error": {
+          "$type": "color",
+          "$value": "{primitives.red.600}",
+          "$description": "From Figma 1. Color modes — component.icons.featured-icons.featured-icon-light-fg-error",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.red.600}",
+              "dark": "{primitives.red.200}"
+            }
+          }
+        },
+        "featured-icon-light-fg-warning": {
+          "$type": "color",
+          "$value": "{primitives.yellow.600}",
+          "$description": "From Figma 1. Color modes — component.icons.featured-icons.featured-icon-light-fg-warning",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.yellow.600}",
+              "dark": "{primitives.yellow.200}"
+            }
+          }
+        },
+        "featured-icon-light-fg-success": {
+          "$type": "color",
+          "$value": "{primitives.green.600}",
+          "$description": "From Figma 1. Color modes — component.icons.featured-icons.featured-icon-light-fg-success",
+          "$extensions": {
+            "mode": {
+              "light": "{primitives.green.600}",
+              "dark": "{primitives.green.200}"
+            }
+          }
+        }
+      }
+    },
+    "mockups": {
+      "screen-mockup-border": {
+        "$type": "color",
+        "$value": "{primitives.neutral.900}",
+        "$description": "From Figma 1. Color modes — component.mockups.screen-mockup-border",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.900}",
+            "dark": "{primitives.neutral.700}"
+          }
+        }
+      }
+    },
+    "sliders": {
+      "slider-handle-bg": {
+        "$type": "color",
+        "$value": "{primitives.white}",
+        "$description": "From Figma 1. Color modes — component.sliders.slider-handle-bg",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.white}",
+            "dark": "{primitives.brand.600}"
+          }
+        }
+      },
+      "slider-handle-border": {
+        "$type": "color",
+        "$value": "{primitives.brand.600}",
+        "$description": "From Figma 1. Color modes — component.sliders.slider-handle-border",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.600}",
+            "dark": "{primitives.white}"
+          }
+        }
+      }
+    },
+    "toggles": {
+      "toggle-border": {
+        "$type": "color",
+        "$value": "{primitives.neutral.300}",
+        "$description": "From Figma 1. Color modes — component.toggles.toggle-border",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.300}",
+            "dark": "{primitives.transparent}"
+          }
+        }
+      },
+      "toggle-slim-border-pressed": {
+        "$type": "color",
+        "$value": "{primitives.brand.600}",
+        "$description": "From Figma 1. Color modes — component.toggles.toggle-slim-border-pressed",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.600}",
+            "dark": "{primitives.transparent}"
+          }
+        }
+      },
+      "toggle-slim-border-pressed-hover": {
+        "$type": "color",
+        "$value": "{primitives.brand.700}",
+        "$description": "From Figma 1. Color modes — component.toggles.toggle-slim-border-pressed-hover",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.700}",
+            "dark": "{primitives.transparent}"
+          }
+        }
+      }
+    },
+    "tooltips": {
+      "tooltip-supporting-text": {
+        "$type": "color",
+        "$value": "{primitives.neutral.300}",
+        "$description": "From Figma 1. Color modes — component.tooltips.tooltip-supporting-text"
+      }
+    },
+    "text-editor": {
+      "text-editor-icon-fg": {
+        "$type": "color",
+        "$value": "{primitives.neutral.400}",
+        "$description": "From Figma 1. Color modes — component.text-editor.text-editor-icon-fg"
+      },
+      "text-editor-icon-fg-active": {
+        "$type": "color",
+        "$value": "{primitives.neutral.500}",
+        "$description": "From Figma 1. Color modes — component.text-editor.text-editor-icon-fg-active",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.500}",
+            "dark": "{primitives.white}"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,6 +1,19 @@
 /**
- * Design Tokens
- * CSS Custom Properties for the Design System
+ * @deprecated This file is deprecated and will be removed in v1.0.0
+ * 
+ * Please migrate to generated tokens from src/tokens/generated/tokens.css
+ * 
+ * Migration path:
+ * 1. Import src/tokens/generated/tokens.css instead of this file
+ * 2. Token names remain the same (backward compatible)
+ * 3. New tokens provide automatic dark mode support via [data-theme]
+ * 4. Disabled opacity now uses --opacity-disabled token
+ * 
+ * Changes from legacy tokens:
+ * - fg-quaternary: #a3a3a3 → #737373 (WCAG AA compliance fix)
+ * - Added automatic light/dark mode support
+ * - Added --opacity-disabled token (0.4 light, 0.3 dark)
+ * - All tokens now source from DTCG specification
  */
 
 :root {
@@ -11,7 +24,7 @@
   --radius-md: 8px;
 
   /* Colors - Foreground */
-  --color-fg-quaternary: #a3a3a3;
+  --color-fg-quaternary: #a3a3a3; /* ⚠️ Changed to #737373 in new tokens */
   --color-fg-quaternary-hover: #737373;
   --color-fg-white: #ffffff;
 
