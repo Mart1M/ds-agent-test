@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "tokens:build": "style-dictionary build",
+    "tokens:generate": "node scripts/generate-color-modes-tokens.mjs",
+    "tokens:build": "node scripts/build-tokens.mjs",
     "tokens:validate": "node scripts/validate-tokens.js",
-    "tokens:watch": "style-dictionary build --watch"
+    "tokens:sync": "npm run tokens:generate && npm run tokens:validate && npm run tokens:build"
   },
   "devDependencies": {
     "style-dictionary": "^4.0.0",

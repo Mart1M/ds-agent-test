@@ -1,0 +1,15 @@
+{
+  "opacity": {
+    "disabled": {
+      "$type": "number",
+      "$value": 0.4,
+      "$description": "Disabled state opacity",
+      "$extensions": {
+        "mode": {
+          "light": 0.4,
+          "dark": 0.3
+        }
+      }
+    }
+  }
+}

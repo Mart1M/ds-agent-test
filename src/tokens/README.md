@@ -6,16 +6,19 @@ This directory contains the Design Token Community Group (DTCG) specification-co
 
 ```
 src/tokens/
-├── source/                      # Source DTCG token files (edit these)
-│   ├── primitives.tokens.json   # Tailwind v3 color primitives
-│   ├── colors.tokens.json       # Semantic color tokens with light/dark modes
-│   └── spacing-radius.tokens.json # Spacing and border radius
-├── generated/                  # Generated CSS output (DO NOT EDIT)
-│   ├── tokens.css              # CSS custom properties
-│   └── tokens.d.ts             # TypeScript definitions
-├── build-config/               # Style Dictionary configuration
-│   └── style-dictionary.config.js
-└── design-tokens.css          # DEPRECATED - Legacy file
+├── figma-export/                # Figma export snapshots (regenerate source from these)
+│   ├── color-modes.tsv          # 273 Color modes tokens
+│   └── primitives.tsv           # 310 _Primitives colors
+├── source/                      # Source DTCG token files
+│   ├── primitives.tokens.json   # Primitive color palette
+│   ├── color-modes.tokens.json  # Semantic color tokens (light/dark)
+│   ├── component-colors.tokens.json # Component-specific colors
+│   ├── semantic-extra.tokens.json   # Non-Figma tokens (opacity, etc.)
+│   └── spacing-radius.tokens.json
+├── generated/                   # Generated CSS output (DO NOT EDIT)
+│   ├── tokens.css
+│   └── tokens.d.ts
+└── build-config/                # Legacy Style Dictionary config (unused)
 ```
 
 ## Token Structure
@@ -171,14 +174,25 @@ The `.github/workflows/tokens-build.yml` workflow:
 
 ## Token Migration Status
 
-- ✅ 273 DTCG color tokens from Figma "1. color modes" collection
-- ✅ Tailwind v3 primitives from "_Primitives" collection
+- ✅ 273 DTCG color tokens exported from Figma **"1. Color modes"** collection
+- ✅ 310 primitive colors from Figma **_Primitives** collection
+- ✅ Normalized token naming (`color.fg.quaternary`, `color.bg.primary`, etc.)
 - ✅ Light/Dark mode support with `[data-theme]` override
-- ✅ WCAG AA compliance (fg-quaternary fix)
-- ✅ Backward-compatible token names
-- ✅ Style Dictionary v4 build pipeline
+- ✅ WCAG AA override for `color.fg.quaternary` (neutral-500 light / neutral-100 dark)
+- ✅ Normalized `color.focus-ring` → `brand.500` from Figma
+- ✅ Style Dictionary-free build via `scripts/build-tokens.mjs`
 - ✅ CI validation workflow
-- ✅ ButtonClose component migrated
+- ✅ ButtonClose component compatible
+
+## Regenerating from Figma
+
+When Figma tokens change, update the export files and regenerate:
+
+```bash
+# 1. Update src/tokens/figma-export/color-modes.tsv (273 lines)
+# 2. Update src/tokens/figma-export/primitives.tsv (310 lines)
+npm run tokens:sync
+```
 
 ## Resources
 
