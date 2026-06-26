@@ -1,0 +1,1610 @@
+{
+  "primitives": {
+    "white": {
+      "$value": "#ffffff",
+      "$type": "color",
+      "$description": "Figma _Primitives — Colors/Base/white"
+    },
+    "neutral": {
+      "50": {
+        "$value": "#fafafa",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/50"
+      },
+      "100": {
+        "$value": "#f5f5f5",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/100"
+      },
+      "200": {
+        "$value": "#e5e5e5",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/200"
+      },
+      "300": {
+        "$value": "#d4d4d4",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/300"
+      },
+      "400": {
+        "$value": "#a3a3a3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/400"
+      },
+      "500": {
+        "$value": "#737373",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/500"
+      },
+      "600": {
+        "$value": "#525252",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/600"
+      },
+      "700": {
+        "$value": "#404040",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/700"
+      },
+      "800": {
+        "$value": "#262626",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/800"
+      },
+      "900": {
+        "$value": "#171717",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/900"
+      },
+      "950": {
+        "$value": "#0a0a0a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral/950"
+      }
+    },
+    "neutral-alpha": {
+      "50": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/50"
+      },
+      "100": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/100"
+      },
+      "200": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/200"
+      },
+      "300": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/300"
+      },
+      "400": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/400"
+      },
+      "500": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/500"
+      },
+      "600": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/600"
+      },
+      "700": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/700"
+      },
+      "800": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/800"
+      },
+      "900": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/900"
+      },
+      "950": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Neutral (alpha)/950"
+      }
+    },
+    "transparent": {
+      "$value": "#ffffff",
+      "$type": "color",
+      "$description": "Figma _Primitives — Colors/Base/transparent"
+    },
+    "brand": {
+      "50": {
+        "$value": "#f9f5ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/50"
+      },
+      "100": {
+        "$value": "#f4ebff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/100"
+      },
+      "200": {
+        "$value": "#e9d7fe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/200"
+      },
+      "300": {
+        "$value": "#d6bbfb",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/300"
+      },
+      "400": {
+        "$value": "#b692f6",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/400"
+      },
+      "500": {
+        "$value": "#9e77ed",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/500"
+      },
+      "600": {
+        "$value": "#7f56d9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/600"
+      },
+      "700": {
+        "$value": "#6941c6",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/700"
+      },
+      "800": {
+        "$value": "#53389e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/800"
+      },
+      "900": {
+        "$value": "#42307d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/900"
+      },
+      "950": {
+        "$value": "#2c1c5f",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Brand/950"
+      }
+    },
+    "red": {
+      "50": {
+        "$value": "#fef2f2",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/50"
+      },
+      "100": {
+        "$value": "#fee2e2",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/100"
+      },
+      "200": {
+        "$value": "#fecaca",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/200"
+      },
+      "300": {
+        "$value": "#fca5a5",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/300"
+      },
+      "400": {
+        "$value": "#f87171",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/400"
+      },
+      "500": {
+        "$value": "#ef4444",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/500"
+      },
+      "600": {
+        "$value": "#dc2626",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/600"
+      },
+      "700": {
+        "$value": "#b91c1c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/700"
+      },
+      "800": {
+        "$value": "#991b1b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/800"
+      },
+      "900": {
+        "$value": "#7f1d1d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/900"
+      },
+      "950": {
+        "$value": "#450a0a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Red/950"
+      }
+    },
+    "orange": {
+      "50": {
+        "$value": "#fff7ed",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/50"
+      },
+      "100": {
+        "$value": "#ffedd5",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/100"
+      },
+      "200": {
+        "$value": "#fed7aa",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/200"
+      },
+      "300": {
+        "$value": "#fdba74",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/300"
+      },
+      "400": {
+        "$value": "#fb923c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/400"
+      },
+      "500": {
+        "$value": "#f97316",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/500"
+      },
+      "600": {
+        "$value": "#ea580c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/600"
+      },
+      "700": {
+        "$value": "#c2410c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/700"
+      },
+      "800": {
+        "$value": "#9a3412",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/800"
+      },
+      "900": {
+        "$value": "#7c2d12",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/900"
+      },
+      "950": {
+        "$value": "#431407",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Orange/950"
+      }
+    },
+    "amber": {
+      "50": {
+        "$value": "#fffbeb",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/50"
+      },
+      "100": {
+        "$value": "#fef3c7",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/100"
+      },
+      "200": {
+        "$value": "#fde68a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/200"
+      },
+      "300": {
+        "$value": "#fcd34d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/300"
+      },
+      "400": {
+        "$value": "#fbbf24",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/400"
+      },
+      "500": {
+        "$value": "#f59e0b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/500"
+      },
+      "600": {
+        "$value": "#d97706",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/600"
+      },
+      "700": {
+        "$value": "#b45309",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/700"
+      },
+      "800": {
+        "$value": "#92400e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/800"
+      },
+      "900": {
+        "$value": "#78350f",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/900"
+      },
+      "950": {
+        "$value": "#451a03",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Amber/950"
+      }
+    },
+    "yellow": {
+      "50": {
+        "$value": "#fefce8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/50"
+      },
+      "100": {
+        "$value": "#fef9c3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/100"
+      },
+      "200": {
+        "$value": "#fef08a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/200"
+      },
+      "300": {
+        "$value": "#fde047",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/300"
+      },
+      "400": {
+        "$value": "#facc15",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/400"
+      },
+      "500": {
+        "$value": "#eab308",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/500"
+      },
+      "600": {
+        "$value": "#ca8a04",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/600"
+      },
+      "700": {
+        "$value": "#a16207",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/700"
+      },
+      "800": {
+        "$value": "#854d0e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/800"
+      },
+      "900": {
+        "$value": "#713f12",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/900"
+      },
+      "950": {
+        "$value": "#422006",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Yellow/950"
+      }
+    },
+    "lime": {
+      "50": {
+        "$value": "#f7fee7",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/50"
+      },
+      "100": {
+        "$value": "#ecfccb",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/100"
+      },
+      "200": {
+        "$value": "#d9f99d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/200"
+      },
+      "300": {
+        "$value": "#bef264",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/300"
+      },
+      "400": {
+        "$value": "#a3e635",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/400"
+      },
+      "500": {
+        "$value": "#84cc16",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/500"
+      },
+      "600": {
+        "$value": "#65a30d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/600"
+      },
+      "700": {
+        "$value": "#4d7c0f",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/700"
+      },
+      "800": {
+        "$value": "#3f6212",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/800"
+      },
+      "900": {
+        "$value": "#365314",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/900"
+      },
+      "950": {
+        "$value": "#1a2e05",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Lime/950"
+      }
+    },
+    "green": {
+      "50": {
+        "$value": "#f0fdf4",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/50"
+      },
+      "100": {
+        "$value": "#dcfce7",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/100"
+      },
+      "200": {
+        "$value": "#bbf7d0",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/200"
+      },
+      "300": {
+        "$value": "#86efac",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/300"
+      },
+      "400": {
+        "$value": "#4ade80",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/400"
+      },
+      "500": {
+        "$value": "#22c55e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/500"
+      },
+      "600": {
+        "$value": "#16a34a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/600"
+      },
+      "700": {
+        "$value": "#15803d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/700"
+      },
+      "800": {
+        "$value": "#166534",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/800"
+      },
+      "900": {
+        "$value": "#14532d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/900"
+      },
+      "950": {
+        "$value": "#052e16",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Green/950"
+      }
+    },
+    "emerald": {
+      "50": {
+        "$value": "#ecfdf5",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/50"
+      },
+      "100": {
+        "$value": "#d1fae5",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/100"
+      },
+      "200": {
+        "$value": "#a7f3d0",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/200"
+      },
+      "300": {
+        "$value": "#6ee7b7",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/300"
+      },
+      "400": {
+        "$value": "#34d399",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/400"
+      },
+      "500": {
+        "$value": "#10b981",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/500"
+      },
+      "600": {
+        "$value": "#059669",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/600"
+      },
+      "700": {
+        "$value": "#047857",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/700"
+      },
+      "800": {
+        "$value": "#065f46",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/800"
+      },
+      "900": {
+        "$value": "#064e3b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/900"
+      },
+      "950": {
+        "$value": "#022c22",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Emerald/950"
+      }
+    },
+    "teal": {
+      "50": {
+        "$value": "#f0fdfa",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/50"
+      },
+      "100": {
+        "$value": "#ccfbf1",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/100"
+      },
+      "200": {
+        "$value": "#99f6e4",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/200"
+      },
+      "300": {
+        "$value": "#5eead4",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/300"
+      },
+      "400": {
+        "$value": "#2dd4bf",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/400"
+      },
+      "500": {
+        "$value": "#14b8a6",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/500"
+      },
+      "600": {
+        "$value": "#0d9488",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/600"
+      },
+      "700": {
+        "$value": "#0f766e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/700"
+      },
+      "800": {
+        "$value": "#115e59",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/800"
+      },
+      "900": {
+        "$value": "#134e4a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/900"
+      },
+      "950": {
+        "$value": "#042f2e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Teal/950"
+      }
+    },
+    "cyan": {
+      "50": {
+        "$value": "#ecfeff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/50"
+      },
+      "100": {
+        "$value": "#cffafe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/100"
+      },
+      "200": {
+        "$value": "#a5f3fc",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/200"
+      },
+      "300": {
+        "$value": "#67e8f9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/300"
+      },
+      "400": {
+        "$value": "#22d3ee",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/400"
+      },
+      "500": {
+        "$value": "#06b6d4",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/500"
+      },
+      "600": {
+        "$value": "#0891b2",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/600"
+      },
+      "700": {
+        "$value": "#0e7490",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/700"
+      },
+      "800": {
+        "$value": "#155e75",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/800"
+      },
+      "900": {
+        "$value": "#164e63",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/900"
+      },
+      "950": {
+        "$value": "#083344",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Cyan/950"
+      }
+    },
+    "sky": {
+      "50": {
+        "$value": "#f0f9ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/50"
+      },
+      "100": {
+        "$value": "#e0f2fe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/100"
+      },
+      "200": {
+        "$value": "#bae6fd",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/200"
+      },
+      "300": {
+        "$value": "#7dd3fc",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/300"
+      },
+      "400": {
+        "$value": "#38bdf8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/400"
+      },
+      "500": {
+        "$value": "#0ea5e9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/500"
+      },
+      "600": {
+        "$value": "#0284c7",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/600"
+      },
+      "700": {
+        "$value": "#0369a1",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/700"
+      },
+      "800": {
+        "$value": "#075985",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/800"
+      },
+      "900": {
+        "$value": "#0c4a6e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/900"
+      },
+      "950": {
+        "$value": "#082f49",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Sky/950"
+      }
+    },
+    "blue": {
+      "50": {
+        "$value": "#eff6ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/50"
+      },
+      "100": {
+        "$value": "#dbeafe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/100"
+      },
+      "200": {
+        "$value": "#bfdbfe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/200"
+      },
+      "300": {
+        "$value": "#93c5fd",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/300"
+      },
+      "400": {
+        "$value": "#60a5fa",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/400"
+      },
+      "500": {
+        "$value": "#3b82f6",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/500"
+      },
+      "600": {
+        "$value": "#2563eb",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/600"
+      },
+      "700": {
+        "$value": "#1d4ed8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/700"
+      },
+      "800": {
+        "$value": "#1e40af",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/800"
+      },
+      "900": {
+        "$value": "#1e3a8a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/900"
+      },
+      "950": {
+        "$value": "#172554",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Blue/950"
+      }
+    },
+    "indigo": {
+      "50": {
+        "$value": "#eef2ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/50"
+      },
+      "100": {
+        "$value": "#e0e7ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/100"
+      },
+      "200": {
+        "$value": "#c7d2fe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/200"
+      },
+      "300": {
+        "$value": "#a5b4fc",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/300"
+      },
+      "400": {
+        "$value": "#818cf8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/400"
+      },
+      "500": {
+        "$value": "#6366f1",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/500"
+      },
+      "600": {
+        "$value": "#4f46e5",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/600"
+      },
+      "700": {
+        "$value": "#4338ca",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/700"
+      },
+      "800": {
+        "$value": "#3730a3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/800"
+      },
+      "900": {
+        "$value": "#312e81",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/900"
+      },
+      "950": {
+        "$value": "#1e1b4b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Indigo/950"
+      }
+    },
+    "violet": {
+      "50": {
+        "$value": "#f5f3ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/50"
+      },
+      "100": {
+        "$value": "#ede9fe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/100"
+      },
+      "200": {
+        "$value": "#ddd6fe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/200"
+      },
+      "300": {
+        "$value": "#c4b5fd",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/300"
+      },
+      "400": {
+        "$value": "#a78bfa",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/400"
+      },
+      "500": {
+        "$value": "#8b5cf6",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/500"
+      },
+      "600": {
+        "$value": "#7c3aed",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/600"
+      },
+      "700": {
+        "$value": "#6d28d9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/700"
+      },
+      "800": {
+        "$value": "#5b21b6",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/800"
+      },
+      "900": {
+        "$value": "#4c1d95",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/900"
+      },
+      "950": {
+        "$value": "#2e1065",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Violet/950"
+      }
+    },
+    "purple": {
+      "50": {
+        "$value": "#faf5ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/50"
+      },
+      "100": {
+        "$value": "#f3e8ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/100"
+      },
+      "200": {
+        "$value": "#e9d5ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/200"
+      },
+      "300": {
+        "$value": "#d8b4fe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/300"
+      },
+      "400": {
+        "$value": "#c084fc",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/400"
+      },
+      "500": {
+        "$value": "#a855f7",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/500"
+      },
+      "600": {
+        "$value": "#9333ea",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/600"
+      },
+      "700": {
+        "$value": "#7e22ce",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/700"
+      },
+      "800": {
+        "$value": "#6b21a8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/800"
+      },
+      "900": {
+        "$value": "#581c87",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/900"
+      },
+      "950": {
+        "$value": "#3b0764",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Purple/950"
+      }
+    },
+    "fuchsia": {
+      "50": {
+        "$value": "#fdf4ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/50"
+      },
+      "100": {
+        "$value": "#fae8ff",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/100"
+      },
+      "200": {
+        "$value": "#f5d0fe",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/200"
+      },
+      "300": {
+        "$value": "#f0abfc",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/300"
+      },
+      "400": {
+        "$value": "#e879f9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/400"
+      },
+      "500": {
+        "$value": "#d946ef",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/500"
+      },
+      "600": {
+        "$value": "#c026d3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/600"
+      },
+      "700": {
+        "$value": "#a21caf",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/700"
+      },
+      "800": {
+        "$value": "#86198f",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/800"
+      },
+      "900": {
+        "$value": "#701a75",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/900"
+      },
+      "950": {
+        "$value": "#4a044e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Fuchsia/950"
+      }
+    },
+    "pink": {
+      "50": {
+        "$value": "#fdf2f8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/50"
+      },
+      "100": {
+        "$value": "#fce7f3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/100"
+      },
+      "200": {
+        "$value": "#fbcfe8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/200"
+      },
+      "300": {
+        "$value": "#f9a8d4",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/300"
+      },
+      "400": {
+        "$value": "#f472b6",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/400"
+      },
+      "500": {
+        "$value": "#ec4899",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/500"
+      },
+      "600": {
+        "$value": "#db2777",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/600"
+      },
+      "700": {
+        "$value": "#be185d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/700"
+      },
+      "800": {
+        "$value": "#9d174d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/800"
+      },
+      "900": {
+        "$value": "#831843",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/900"
+      },
+      "950": {
+        "$value": "#500724",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Pink/950"
+      }
+    },
+    "rose": {
+      "50": {
+        "$value": "#fff1f2",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/50"
+      },
+      "100": {
+        "$value": "#ffe4e6",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/100"
+      },
+      "200": {
+        "$value": "#fecdd3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/200"
+      },
+      "300": {
+        "$value": "#fda4af",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/300"
+      },
+      "400": {
+        "$value": "#fb7185",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/400"
+      },
+      "500": {
+        "$value": "#f43f5e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/500"
+      },
+      "600": {
+        "$value": "#e11d48",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/600"
+      },
+      "700": {
+        "$value": "#be123c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/700"
+      },
+      "800": {
+        "$value": "#9f1239",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/800"
+      },
+      "900": {
+        "$value": "#881337",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/900"
+      },
+      "950": {
+        "$value": "#4c0519",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Rose/950"
+      }
+    },
+    "slate": {
+      "50": {
+        "$value": "#f8fafc",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/50"
+      },
+      "100": {
+        "$value": "#f1f5f9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/100"
+      },
+      "200": {
+        "$value": "#e2e8f0",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/200"
+      },
+      "300": {
+        "$value": "#cbd5e1",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/300"
+      },
+      "400": {
+        "$value": "#94a3b8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/400"
+      },
+      "500": {
+        "$value": "#64748b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/500"
+      },
+      "600": {
+        "$value": "#475569",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/600"
+      },
+      "700": {
+        "$value": "#334155",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/700"
+      },
+      "800": {
+        "$value": "#1e293b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/800"
+      },
+      "900": {
+        "$value": "#0f172a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/900"
+      },
+      "950": {
+        "$value": "#020617",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Slate/950"
+      }
+    },
+    "gray": {
+      "50": {
+        "$value": "#f9fafb",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/50"
+      },
+      "100": {
+        "$value": "#f3f4f6",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/100"
+      },
+      "200": {
+        "$value": "#e5e7eb",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/200"
+      },
+      "300": {
+        "$value": "#d1d5db",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/300"
+      },
+      "400": {
+        "$value": "#9ca3af",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/400"
+      },
+      "500": {
+        "$value": "#6b7280",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/500"
+      },
+      "600": {
+        "$value": "#4b5563",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/600"
+      },
+      "700": {
+        "$value": "#374151",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/700"
+      },
+      "800": {
+        "$value": "#1f2937",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/800"
+      },
+      "900": {
+        "$value": "#111827",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/900"
+      },
+      "950": {
+        "$value": "#030712",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Gray/950"
+      }
+    },
+    "zinc": {
+      "50": {
+        "$value": "#fafafa",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/50"
+      },
+      "100": {
+        "$value": "#f4f4f5",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/100"
+      },
+      "200": {
+        "$value": "#e4e4e7",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/200"
+      },
+      "300": {
+        "$value": "#d4d4d8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/300"
+      },
+      "400": {
+        "$value": "#a1a1aa",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/400"
+      },
+      "500": {
+        "$value": "#71717a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/500"
+      },
+      "600": {
+        "$value": "#52525b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/600"
+      },
+      "700": {
+        "$value": "#3f3f46",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/700"
+      },
+      "800": {
+        "$value": "#27272a",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/800"
+      },
+      "900": {
+        "$value": "#18181b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/900"
+      },
+      "950": {
+        "$value": "#09090b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Zinc/950"
+      }
+    },
+    "stone": {
+      "50": {
+        "$value": "#fafaf9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/50"
+      },
+      "100": {
+        "$value": "#f5f5f4",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/100"
+      },
+      "200": {
+        "$value": "#e7e5e4",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/200"
+      },
+      "300": {
+        "$value": "#d6d3d1",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/300"
+      },
+      "400": {
+        "$value": "#a8a29e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/400"
+      },
+      "500": {
+        "$value": "#78716c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/500"
+      },
+      "600": {
+        "$value": "#57534e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/600"
+      },
+      "700": {
+        "$value": "#44403c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/700"
+      },
+      "800": {
+        "$value": "#292524",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/800"
+      },
+      "900": {
+        "$value": "#1c1917",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/900"
+      },
+      "950": {
+        "$value": "#0c0a09",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Stone/950"
+      }
+    },
+    "taupe": {
+      "50": {
+        "$value": "#fbfaf9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/50"
+      },
+      "100": {
+        "$value": "#f3f1f1",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/100"
+      },
+      "200": {
+        "$value": "#e8e4e3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/200"
+      },
+      "300": {
+        "$value": "#d8d2d0",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/300"
+      },
+      "400": {
+        "$value": "#aba09c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/400"
+      },
+      "500": {
+        "$value": "#7c6d67",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/500"
+      },
+      "600": {
+        "$value": "#5b4f4b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/600"
+      },
+      "700": {
+        "$value": "#473c39",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/700"
+      },
+      "800": {
+        "$value": "#2b2422",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/800"
+      },
+      "900": {
+        "$value": "#1d1816",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/900"
+      },
+      "950": {
+        "$value": "#0c0a09",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Taupe/950"
+      }
+    },
+    "mauve": {
+      "50": {
+        "$value": "#fafafa",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/50"
+      },
+      "100": {
+        "$value": "#f3f1f3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/100"
+      },
+      "200": {
+        "$value": "#e7e4e7",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/200"
+      },
+      "300": {
+        "$value": "#d7d0d7",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/300"
+      },
+      "400": {
+        "$value": "#a89ea9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/400"
+      },
+      "500": {
+        "$value": "#79697b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/500"
+      },
+      "600": {
+        "$value": "#594c5b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/600"
+      },
+      "700": {
+        "$value": "#463947",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/700"
+      },
+      "800": {
+        "$value": "#2a212c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/800"
+      },
+      "900": {
+        "$value": "#1d161e",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/900"
+      },
+      "950": {
+        "$value": "#0c090c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mauve/950"
+      }
+    },
+    "mist": {
+      "50": {
+        "$value": "#f9fbfb",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/50"
+      },
+      "100": {
+        "$value": "#f1f3f3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/100"
+      },
+      "200": {
+        "$value": "#e3e7e8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/200"
+      },
+      "300": {
+        "$value": "#d0d6d8",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/300"
+      },
+      "400": {
+        "$value": "#9ca8ab",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/400"
+      },
+      "500": {
+        "$value": "#67787c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/500"
+      },
+      "600": {
+        "$value": "#4b585b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/600"
+      },
+      "700": {
+        "$value": "#394447",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/700"
+      },
+      "800": {
+        "$value": "#22292b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/800"
+      },
+      "900": {
+        "$value": "#161b1d",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/900"
+      },
+      "950": {
+        "$value": "#090b0c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Mist/950"
+      }
+    },
+    "olive": {
+      "50": {
+        "$value": "#fbfbf9",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/50"
+      },
+      "100": {
+        "$value": "#f4f4f0",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/100"
+      },
+      "200": {
+        "$value": "#e8e8e3",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/200"
+      },
+      "300": {
+        "$value": "#d8d8d0",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/300"
+      },
+      "400": {
+        "$value": "#abab9c",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/400"
+      },
+      "500": {
+        "$value": "#7c7c67",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/500"
+      },
+      "600": {
+        "$value": "#5b5b4b",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/600"
+      },
+      "700": {
+        "$value": "#474739",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/700"
+      },
+      "800": {
+        "$value": "#2b2b22",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/800"
+      },
+      "900": {
+        "$value": "#1d1d16",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/900"
+      },
+      "950": {
+        "$value": "#0c0c09",
+        "$type": "color",
+        "$description": "Figma _Primitives — Colors/Olive/950"
+      }
+    }
+  }
+}
