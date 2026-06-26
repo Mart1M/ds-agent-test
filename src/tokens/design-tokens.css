@@ -1,0 +1,24 @@
+/**
+ * Design Tokens
+ * CSS Custom Properties for the Design System
+ */
+
+:root {
+  /* Spacing */
+  --spacing-md: 8px;
+
+  /* Border Radius */
+  --radius-md: 8px;
+
+  /* Colors - Foreground */
+  --color-fg-quaternary: #a3a3a3;
+  --color-fg-quaternary-hover: #737373;
+  --color-fg-white: #ffffff;
+
+  /* Colors - Background */
+  --color-bg-primary: #ffffff;
+  --color-bg-primary-hover: #fafafa;
+
+  /* Focus Ring */
+  --color-focus-ring: #9e77ed;
+}

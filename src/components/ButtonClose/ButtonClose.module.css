@@ -1,0 +1,98 @@
+/**
+ * ButtonClose Styles
+ * Implements light/dark modes, all size variants, and states
+ */
+
+.button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: var(--radius-md);
+  background-color: transparent;
+  color: var(--color-fg-quaternary);
+  cursor: pointer;
+  transition: all 150ms ease-in-out;
+  padding: 0;
+}
+
+/* Size Variants */
+.button.sm {
+  width: 36px;
+  height: 36px;
+}
+
+.button.md {
+  width: 40px;
+  height: 40px;
+}
+
+.button.lg {
+  width: 44px;
+  height: 44px;
+}
+
+/* Touch Target Expansion for sm and md */
+.button.sm::after,
+.button.md::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 44px;
+  height: 44px;
+}
+
+/* Light Mode States */
+.button:hover:not(:disabled) {
+  background-color: var(--color-bg-primary-hover);
+  color: var(--color-fg-quaternary-hover);
+}
+
+.button:focus-visible {
+  outline: none;
+  background-color: var(--color-bg-primary);
+  box-shadow: 
+    0 0 0 2px var(--color-fg-white),
+    0 0 0 6px var(--color-focus-ring);
+}
+
+/* Disabled State */
+.button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  .button {
+    color: var(--color-fg-white);
+    opacity: 0.7;
+  }
+
+  .button:hover:not(:disabled) {
+    background-color: rgba(255, 255, 255, 0.2);
+    opacity: 1;
+  }
+
+  .button:disabled {
+    opacity: 0.3;
+  }
+}
+
+/* Data attribute dark mode support */
+[data-theme="dark"] .button {
+  color: var(--color-fg-white);
+  opacity: 0.7;
+}
+
+[data-theme="dark"] .button:hover:not(:disabled) {
+  background-color: rgba(255, 255, 255, 0.2);
+  opacity: 1;
+}
+
+[data-theme="dark"] .button:disabled {
+  opacity: 0.3;
+}
