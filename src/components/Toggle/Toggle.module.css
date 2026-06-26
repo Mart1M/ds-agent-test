@@ -1,0 +1,212 @@
+/**
+ * Toggle Styles
+ * Implements Untitled UI Toggle variants using design tokens
+ */
+
+@import '../../tokens/design-tokens.css';
+
+.field,
+.track {
+  --toggle-spacing-md: 8px;
+  --toggle-spacing-lg: 12px;
+  --toggle-spacing-xxs: 2px;
+  --toggle-radius-full: 9999px;
+  --color-bg-tertiary: #f5f5f5;
+  --color-bg-brand-solid: #7f56d9;
+  --color-bg-brand-solid-hover: #6941c6;
+  --color-border-secondary: #e5e5e5;
+  --color-text-secondary: #404040;
+  --color-text-tertiary: #525252;
+  --component-toggles-toggle-border: #d4d4d4;
+  --component-toggles-toggle-slim-border-pressed: #7f56d9;
+  --component-toggles-toggle-slim-border-pressed-hover: #6941c6;
+  --opacity-disabled: 0.5;
+}
+
+.field {
+  display: inline-flex;
+  gap: var(--toggle-spacing-md);
+  align-items: flex-start;
+  max-width: 100%;
+  cursor: pointer;
+}
+
+.fieldMd {
+  gap: var(--toggle-spacing-lg);
+}
+
+.fieldDisabled {
+  cursor: not-allowed;
+}
+
+.text {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 0;
+}
+
+.label {
+  font-weight: 500;
+  color: var(--color-text-secondary);
+}
+
+.description {
+  font-weight: 400;
+  color: var(--color-text-tertiary);
+}
+
+.sm .label,
+.sm .description {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.md .label,
+.md .description {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.md .text {
+  gap: var(--toggle-spacing-xxs);
+}
+
+.toggleWrap {
+  display: flex;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.slimWrapSm {
+  width: 32px;
+  padding-top: var(--toggle-spacing-xxs);
+}
+
+.slimWrapMd {
+  width: 40px;
+  padding-top: var(--toggle-spacing-xxs);
+}
+
+.track {
+  position: relative;
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  border: none;
+  border-radius: var(--toggle-radius-full);
+  padding: 0;
+  background-color: var(--color-bg-tertiary);
+  cursor: pointer;
+  transition: background-color 150ms ease-in-out, box-shadow 150ms ease-in-out;
+}
+
+.track:focus {
+  outline: none;
+}
+
+.track:focus-visible {
+  box-shadow:
+    0 0 0 2px var(--color-bg-primary),
+    0 0 0 4px var(--color-focus-ring);
+}
+
+.track.checked {
+  justify-content: flex-end;
+  background-color: var(--color-bg-brand-solid);
+}
+
+.track:hover:not(:disabled) {
+  background-color: var(--color-bg-tertiary);
+}
+
+.track.checked:hover:not(:disabled) {
+  background-color: var(--color-bg-brand-solid-hover);
+}
+
+.track:disabled {
+  opacity: var(--opacity-disabled);
+  cursor: not-allowed;
+}
+
+/* Default variant track sizes */
+.default.sm {
+  width: 36px;
+  height: 20px;
+  padding: var(--toggle-spacing-xxs);
+  border: 0.5px solid var(--color-border-secondary);
+}
+
+.default.md {
+  width: 44px;
+  height: 24px;
+  padding: var(--toggle-spacing-xxs);
+  border: 0.5px solid var(--color-border-secondary);
+}
+
+/* Slim variant track sizes */
+.slim.sm {
+  width: 32px;
+  height: 16px;
+}
+
+.slim.md {
+  width: 40px;
+  height: 20px;
+}
+
+.slimBorder {
+  position: absolute;
+  inset: 0;
+  border: 1px solid var(--color-border-secondary);
+  border-radius: var(--toggle-radius-full);
+  pointer-events: none;
+}
+
+.thumb {
+  position: relative;
+  z-index: 1;
+  flex-shrink: 0;
+  border-radius: var(--toggle-radius-full);
+  background-color: var(--color-fg-white);
+  box-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.1),
+    0 1px 2px -1px rgba(0, 0, 0, 0.1);
+  transition: border-color 150ms ease-in-out, box-shadow 150ms ease-in-out;
+}
+
+.default.sm .thumb {
+  width: 16px;
+  height: 16px;
+}
+
+.default.md .thumb {
+  width: 20px;
+  height: 20px;
+}
+
+.slim.sm .thumb {
+  width: 16px;
+  height: 16px;
+  border: 1px solid var(--component-toggles-toggle-border);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.slim.md .thumb {
+  width: 20px;
+  height: 20px;
+  border: 1px solid var(--component-toggles-toggle-border);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.slim.checked .thumb {
+  border-color: var(--component-toggles-toggle-slim-border-pressed);
+}
+
+.slim.checked:hover:not(:disabled) .thumb {
+  border-color: var(--component-toggles-toggle-slim-border-pressed-hover);
+}
