@@ -1,0 +1,94 @@
+{
+  "color": {
+    "border": {
+      "primary": {
+        "$type": "color",
+        "$value": "{primitives.neutral.300}",
+        "$description": "Primary border color",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.300}",
+            "dark": "{primitives.neutral.700}"
+          }
+        }
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{primitives.neutral.200}",
+        "$description": "Secondary border color",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.200}",
+            "dark": "{primitives.neutral.800}"
+          }
+        }
+      },
+      "secondary-alt": {
+        "$type": "color",
+        "$value": "rgba(0,0,0,0.1)",
+        "$description": "Secondary border with opacity (light mode)",
+        "$extensions": {
+          "mode": {
+            "light": "rgba(0,0,0,0.1)",
+            "dark": "{primitives.neutral.800}"
+          }
+        }
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{primitives.neutral.100}",
+        "$description": "Tertiary border color",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.neutral.100}",
+            "dark": "{primitives.neutral.800}"
+          }
+        }
+      },
+      "brand": {
+        "$type": "color",
+        "$value": "{primitives.brand.500}",
+        "$description": "Brand border color",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.500}",
+            "dark": "{primitives.brand.400}"
+          }
+        }
+      },
+      "brand-alt": {
+        "$type": "color",
+        "$value": "{primitives.brand.600}",
+        "$description": "Brand border alternate",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.brand.600}",
+            "dark": "{primitives.neutral.700}"
+          }
+        }
+      },
+      "error": {
+        "$type": "color",
+        "$value": "{primitives.red.500}",
+        "$description": "Error border color",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.red.500}",
+            "dark": "{primitives.red.400}"
+          }
+        }
+      },
+      "error-subtle": {
+        "$type": "color",
+        "$value": "{primitives.red.300}",
+        "$description": "Subtle error border",
+        "$extensions": {
+          "mode": {
+            "light": "{primitives.red.300}",
+            "dark": "{primitives.red.500}"
+          }
+        }
+      }
+    }
+  }
+}
